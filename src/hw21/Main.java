@@ -87,3 +87,5 @@ public class Main {
                 .collect(Collectors.groupingBy (Product::getType));
     }
 }
+
+
